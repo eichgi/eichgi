@@ -1,6 +1,10 @@
-### Hi there 👋
+### This is Hiram Guerrero :v:
+#### Fullstack developer
+Always learning for skills improving...
 
-- 🌱 I’m currently learning Next.js
+Skills: Laravel / Vue / React / MySQL / Redis / AWS
+
+- I’m currently learning Next.js  
 
 <!--
 **eichgi/eichgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
