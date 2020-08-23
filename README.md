@@ -3,7 +3,7 @@
 #### Fullstack developer
 Always learning for skills improving...
 
-Skills: Laravel / Vue / React / MySQL / Redis / AWS
+Skills: Laravel / Vue & Nuxt / React / MySQL / Redis / AWS
 
 - Currently tinkering with Node & Next.js  :wrench:
 
