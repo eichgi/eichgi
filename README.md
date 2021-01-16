@@ -5,7 +5,7 @@ Always learning for skills improving...
 
 Skills: Laravel / Vue & Nuxt / React / MySQL / Redis / AWS
 
-- Currently tinkering with Node & Next.js  :wrench:
+- Currently working with Node, Next.js & GraphQL :wrench:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eichgi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/eichgi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hiram-guerrero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eichgi.com)  
 
