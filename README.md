@@ -1,11 +1,11 @@
 ### This is Hiram Guerrero :v:
 -----
 #### Fullstack developer
-Always learning for skills improving...
+Always learning, always improving.
 
-Skills: Laravel / Vue & Nuxt / React / MySQL / Redis / AWS
+Main Tech Stack: JS/TS/PHP, Node, Nest.js, Laravel, Vue & Nuxt, React, MySQL, Redis, Firestore, Mongo, AWS & GCP's Certified
 
-- Currently working with Node, Laravel, React, Shell scripting & DevOps :wrench:
+- Currently learning shell scripting, microservices, serverless and devops infra :wrench:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eichgi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/eichgi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hiram-guerrero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eichgi.com)  
 
